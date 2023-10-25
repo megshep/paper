@@ -1,8 +1,9 @@
 # Title
-Aging of biomass burning aersols over West Africa 
+Simulations of biomass burning aersols over West Africa 
 
 # Author
 Megan Sheppard
+Fred Fredson
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.

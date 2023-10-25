@@ -23,4 +23,6 @@ scale.
 We simulate the evolution of particle sizes as they are
 transported away from the source region. 
 
-
+#Methodology
+We compared our measurements of particle aging with a model 
+simulation. The model is detailed in Smith et al., (2002). 

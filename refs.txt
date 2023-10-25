@@ -1,3 +1,5 @@
 Bloggs et al (2004). Describe PCASP instrument. Journal. Vol. Doi. 
 
 Jones et al (1998). Previous studies.
+
+Smith et al (2002). Methodology reference. 

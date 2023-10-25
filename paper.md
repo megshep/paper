@@ -3,8 +3,8 @@ Aircraft measurements and simulations of biomass burning
 aersols over West Africa 
 
 # Author
-Megan Sheppard
-Fred Fredson
+Megan Sheppard University of Manchester
+Fred Fredson University of Wherever <3
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.

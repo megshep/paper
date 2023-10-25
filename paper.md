@@ -7,7 +7,7 @@ aersols over West Africa
 Megan Sheppard
 Fred Fredson
 
-#Introduction
+# Introduction
 We present aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using a PCASP (Bloggs et al., 2004).
@@ -19,10 +19,13 @@ A large uncertainity in modelling BBOA is the extent to which
 measurements in the literature can be applied at a regional
 scale.
 
-#Simulations
+# Simulations
 We simulate the evolution of particle sizes as they are
 transported away from the source region. 
 
-#Methodology
+# Methodology
 We compared our measurements of particle aging with a model 
 simulation. The model is detailed in Smith et al., (2002). 
+
+#Instrument 
+SMPS is another instrument used to measure particle sizes

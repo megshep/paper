@@ -2,7 +2,6 @@
 Aircraft measurements and simulations of biomass burning 
 aersols over West Africa 
 
-
 # Author
 Megan Sheppard
 Fred Fredson
